@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Roger Laurent, a passionate developer and tech enthusiast. I love building things that solve problems and contribute to the tech community. You’ll find me working on various projects, exploring new technologies, and collaborating with others on GitHub.
+👋 Hi, I’m Roger Laurent, a passionate developer and tech enthusiast. I love building things that solve problems and contribute to the tech community. You’ll find me working on various projects, exploring new technologies, and collaborating with others on GitHub.
 
 🌐 **Connect with Me**
 
 - [![Instagram](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rogerlaurent_rl)
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](rogerlaurent20@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-laurent/)
-- 
+  
 ⚡ **Tech Stacks**
+
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)  
@@ -30,6 +31,7 @@
 
 
 Github Status
+
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roglau&include_all_commits=true&count_private=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 <!---
